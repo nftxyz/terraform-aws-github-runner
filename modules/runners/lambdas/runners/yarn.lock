@@ -3174,10 +3174,10 @@ jest-message-util@^27.5.1:
     slash "^3.0.0"
     stack-utils "^2.0.3"
 
-jest-mock-extended@^2.0.5:
-  version "2.0.5"
-  resolved "https://registry.yarnpkg.com/jest-mock-extended/-/jest-mock-extended-2.0.5.tgz#1feca6866ecbb4e5e79e57d9286969fde53a07cf"
-  integrity sha512-cQjKRqzZ/hUyy3AdmB7Aa+0DB45dt/eEApwfZFZzup9oefGnw2QodW/BLR39aCpPkK0Qb54P5OKYRXJ98kQ8cQ==
+jest-mock-extended@^3.0.2:
+  version "3.0.2"
+  resolved "https://registry.yarnpkg.com/jest-mock-extended/-/jest-mock-extended-3.0.2.tgz#49c1ae666f6aec38a49b6630e82cf48c44ebf72e"
+  integrity sha512-R0fIVQ0ZQtquXeiAlKMYU8/KwwrBiM7cDlwFXNWCvcZIjpT91p7jjyYLXlj7IUzFIqlTkiDYLa9N0DzAp/N42w==
   dependencies:
     ts-essentials "^7.0.3"
 
